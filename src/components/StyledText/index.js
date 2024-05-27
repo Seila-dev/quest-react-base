@@ -1,5 +1,5 @@
 import React from 'react'
-import './texto.css'
+import './index.css'
 
 class TextoCostumizavel extends React.Component {
     render() {

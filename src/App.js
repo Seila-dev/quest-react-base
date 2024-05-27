@@ -1,5 +1,5 @@
-import TextoCostumizavel from './components/textoColoridoEMaisculo/texto.js';
-import Button from './components/button/button.js';
+import TextoCostumizavel from './components/StyledText/index.js';
+import Button from './components/AlertButton/index.js';
 
 function App() {
   return (
